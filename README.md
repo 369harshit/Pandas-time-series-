@@ -13,3 +13,11 @@ Step-3: Time Resampling- Resampling is the process of changing the frequency of 
 
 Step-4: Time shifting- Time shifting refers to the operation of moving data points backward or forward along the time axis. This can be useful for various purposes, such as creating lag features, aligning datasets, or comparing time series at different points in time. The shift method in pandas is commonly used for time shifting.
 
+
+
+
+Pandas Time series analysis
+•	Objective: Conducted a focused time series analysis using pandas, emphasizing datetime indexing, rolling/expanding windows, time resampling, and time shifting.
+•	Responsiblities: Datetime indexing, rolling/expanding windows, time resampling and time shifting.
+•	Tools used: Python (Pandas),  Data visualization (Matplotlib, Seaborn), Jupyter Notebook
+•	Result: Enhanced proficiency in time series analysis, providing valuable insights for trend identification and efficient data manipulation in diverse data-driven projects.
